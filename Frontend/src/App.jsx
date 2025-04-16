@@ -37,8 +37,12 @@ function App() {
       setId(-1);
     }
     if (id !== -1) {
-      localStorage.setItem("id", JSON.stringify(id)); 
-      getDataFromServer(`http://localhost:4000/category/${id}`, id);
+      localStorage.setItem("id", JSON.stringify(id));
+      getDataFromServer(
+        `https://rssfeed-backend.onrender.com
+/category/${id}`,
+        id
+      );
       setId(-1);
     }
   }, [id]);
