@@ -39,7 +39,7 @@ function App() {
     if (id !== -1) {
       localStorage.setItem("id", JSON.stringify(id));
       getDataFromServer(
-        `https://rssfeed-backend.onrender.com
+        `https://rssfeed-3puk.onrender.com
 /category/${id}`,
         id
       );
