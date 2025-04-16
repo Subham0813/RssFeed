@@ -1,0 +1,92 @@
+[
+  {
+    "category": "Tech News",
+    "feedUrls": [
+      { "name": "TechCrunch", "url": "https://techcrunch.com/feed/" },
+      { "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml" },
+      { "name": "Hacker News", "url": "https://hnrss.org/newest" },
+      {
+        "name": "Ars Technica",
+        "url": "https://feeds.arstechnica.com/arstechnica/index"
+      }
+    ]
+  },
+  {
+    "category": "General News",
+    "feedUrls": [
+      { "name": "BBC News", "url": "http://feeds.bbci.co.uk/news/rss.xml" },
+      { "name": "CNN", "url": "http://rss.cnn.com/rss/edition.rss" },
+      {
+        "name": "AP News",
+        "url": "https://www.apnews.com/rss/apf-topnews"
+      }
+    ]
+  },
+  {
+    "category": "Programming and Development",
+    "feedUrls": [
+      {
+        "name": "Reddit (Programming)",
+        "url": "https://www.reddit.com/r/programming/.rss"
+      },
+      {
+        "name": "Smashing Magazine",
+        "url": "https://www.smashingmagazine.com/feed/"
+      },
+      {
+        "name": "FreeCodeCamp News",
+        "url": "https://www.freecodecamp.org/news/rss/"
+      }
+    ]
+  },
+  {
+    "category": "Entertainment and Lifestyle",
+    "feedUrls": [
+      {
+        "name": "IGN (Gaming and Entertainment)",
+        "url": "http://feeds.ign.com/ign/all"
+      },
+      { "name": "Mashable", "url": "https://mashable.com/feeds/rss/" },
+      { "name": "Buzzfeed", "url": "https://www.buzzfeed.com/index.xml" }
+    ]
+  },
+  {
+    "category": "Science and Education",
+    "feedUrls": [
+      {
+        "name": "NASA Breaking News",
+        "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+      },
+      {
+        "name": "Scientific American",
+        "url": "https://www.scientificamerican.com/rss/"
+      },
+      {
+        "name": "National Geographic",
+        "url": "https://www.nationalgeographic.com/content/natgeo/en_us/news.rss"
+      }
+    ]
+  },
+  {
+    "category": "Finance and Business",
+    "feedUrls": [
+      { "name": "Bloomberg", "url": "https://www.bloomberg.com/feed" },
+      {
+        "name": "The Wall Street Journal (Markets)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"
+      },
+      { "name": "Forbes", "url": "https://www.forbes.com/real-time/feed2/" }
+    ]
+  },
+  {
+    "category": "Sports",
+    "feedUrls": [
+      { "name": "ESPN", "url": "https://www.espn.com/espn/rss/news" },
+      { "name": "Sky Sports", "url": "https://www.skysports.com/rss/12040" },
+      {
+        "name": "Bleacher Report",
+        "url": "https://bleacherreport.com/articles/feed"
+      }
+    ]
+  }
+]
